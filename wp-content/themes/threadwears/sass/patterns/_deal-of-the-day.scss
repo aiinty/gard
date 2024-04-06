@@ -1,0 +1,84 @@
+/* --- Block Deal of the Day
+-------------------------------------------------------- */
+
+.wp-block-deal-of-the-day .wp-block-media-text__media {
+    display: none;
+}
+
+.wp-block-cover.alignfull.wp-block-section.wp-block-deal-of-the-day {
+    padding: 0;
+    margin-top: var(--wp--custom--spacing--section-block-top);
+}
+
+.wp-block-cover.wp-block-deal-of-the-day .wp-block-cover__image-background {
+    left: 0;
+    width: 50%;
+}
+
+.wp-block-deal-of-the-day .wp-block-media-text.alignwide {
+    max-width: 100%;
+}
+
+.wp-block-deal-of-the-day .wp-block-media-text__content {
+    text-align: center;
+}
+
+.wp-block-deal-of-the-day .wp-block-buttons>.wp-block-button {
+    margin: 0 auto;
+}
+
+.wp-block-deal-of-the-day .is-stacked-on-mobile .wp-block-media-text__media {
+    margin: 0
+}
+
+.wp-block-deal-of-the-day .wp-block-buttons {
+    margin-top: var(--wp--custom--spacing--group-heading-bottom-gap);
+
+    .wp-block-button__link {
+        margin-top: 0;
+    }
+}
+
+/** Block Count Down 
+-------------------------------------------------------- */
+.fse-pro-countdown {
+    grid-template-columns: repeat(4, 1fr);
+    max-width: 500px;
+    margin: 0 auto;
+
+    &.countdown-expired {
+        grid-template-columns: auto;
+        font-size: var(--wp--custom--typography--font-size--heading-five);
+    }
+
+    .number {
+        font-size: var(--wp--preset--font-size--product-heading);
+        font-weight: var(--wp--custom--typography--font-weight--light);
+    }
+
+    .unit {
+        font-size: var(--wp--preset--font-size--medium);
+        font-weight: var(--wp--custom--typography--font-weight--regular);
+        margin-top: 28px;
+    }
+}
+
+
+
+/* --- Block Hero Content
+-------------------------------------------------------- */
+
+@media screen and (max-width: 48em) {
+    .wp-block-cover.wp-block-deal-of-the-day {
+        flex-direction: column;
+    }
+
+    .wp-block-cover.wp-block-deal-of-the-day .wp-block-cover__image-background {
+        position: static;
+        width: 100%;
+    }
+
+    .wp-block-media-text {
+        display: block;
+    }
+}

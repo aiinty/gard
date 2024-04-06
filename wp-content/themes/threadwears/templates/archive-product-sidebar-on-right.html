@@ -1,0 +1,31 @@
+<!-- wp:template-part {"slug":"header-with-cart" ,"tagName":"header"} /-->
+<!-- wp:pattern {"slug":"threadwears/shop-header"} /-->
+
+<!-- wp:group {"tagName":"main"} -->
+<main class="wp-block-group">
+
+
+    <!-- wp:group {"align":"full","layout":{"inherit":true,"type":"constrained"}} -->
+    <div class="wp-block-group alignfull">
+        <!-- wp:columns {"className":"wp-product-category-with-sidebar","align":"wide"} -->
+        <div class="wp-block-columns wp-product-category-with-sidebar wp-sidebar-on-right alignwide">
+            <!-- wp:column {"width":"77%"} -->
+            <div class="wp-block-column" style="flex-basis:77%">
+                <!-- wp:template-part {"slug":"all-products","tagName":"div"} /-->
+            </div>
+            <!-- /wp:column -->
+            <!-- wp:column {"width":"23%"} -->
+            <div class="wp-block-column" style="flex-basis:23%">
+                <!-- wp:template-part {"slug":"sidebar-products","tagName":"div"} /-->
+            </div>
+            <!-- /wp:column -->
+
+        </div>
+        <!-- /wp:columns -->
+    </div>
+    <!-- /wp:group -->
+    <!-- wp:pattern {"slug":"threadwears/mobile-sticky-icon-menu"} /-->
+</main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer-dark-three-columns","tagName":"footer"} /-->

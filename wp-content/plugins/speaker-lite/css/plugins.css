@@ -1,0 +1,44 @@
+/**
+ * * {{plugin_description}}
+ * * Exclusively on Envato Market: {{plugin_uri}}
+ * *
+ * * @encoding        UTF-8
+ * * @version         1.1.7
+ * * @copyright       Merkulove
+ * * @license         (ISC OR GPL-3.0)
+ * * @contributors    Alexander Khmelnitskiy, Dmytro Merkulov
+ * * @support         help@merkulov.design
+ * **/
+.plugins .plugin-title .cc-merkulove img {
+  height: 13px;
+  width: 16px;
+  vertical-align: middle;
+  position: relative;
+  top: -1px;
+  float: none;
+  padding: 0;
+  margin-right: 4px;
+}
+
+.mdp-rating-stars a {
+  outline: none;
+  display: inline-block;
+  width: 14px;
+}
+.mdp-rating-stars a:hover {
+  text-decoration: none !important;
+}
+.mdp-rating-stars a:focus {
+  box-shadow: none;
+}
+.mdp-rating-stars .dashicons {
+  color: #ffb900;
+  font-size: 16px;
+}
+
+.update-message .mdp-line {
+  display: block;
+  line-height: 5px;
+  border-bottom: 1px solid rgba(255, 185, 0, 0.4);
+  margin: 5px 0;
+}

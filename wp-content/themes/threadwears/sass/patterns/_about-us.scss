@@ -1,0 +1,31 @@
+/* --- Block About Us
+-------------------------------------------------------- */
+.wp-block-cover.alignfull.wp-block-section.wp-block-hero-content+.wp-block-cover.alignfull.wp-block-section.wp-block-deal-of-the-day,
+.wp-block-cover.alignfull.wp-block-section.wp-block-deal-of-the-day+.wp-block-cover.alignfull.wp-block-section.wp-block-hero-content {
+    margin-top: 0;
+}
+
+.wp-block-cover.wp-block-hero-content {
+    padding: 0;
+    margin-top: var(--wp--custom--spacing--section-block-top);
+}
+
+.wp-block-cover.wp-block-hero-content .wp-block-cover__image-background {
+    left: auto;
+    width: 50%;
+}
+
+.wp-block-hero-content .is-stacked-on-mobile .wp-block-media-text__media {
+    margin: 0
+}
+
+@media screen and (max-width: 48em) {
+    .wp-block-cover.wp-block-hero-content {
+        flex-direction: column;
+    }
+
+    .wp-block-cover.wp-block-hero-content .wp-block-cover__image-background {
+        position: static;
+        width: 100%;
+    }
+}

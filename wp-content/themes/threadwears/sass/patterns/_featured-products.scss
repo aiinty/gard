@@ -1,0 +1,144 @@
+/* --- Featured Products
+-------------------------------------------------------- */
+.wp-thumbnail-product {
+  padding: 0;
+
+  .wp-block-columns {
+    gap: 0 30px;
+  }
+
+  .wc-block-grid__products {
+    margin: 0;
+  }
+}
+
+.wp-product-category-thumbnail {
+  height: 100%;
+
+  .wp-block-cover {
+    height: 100%;
+  }
+}
+
+.wp-thumbnail-product .wc-block-featured-category,
+.wp-thumbnail-product .wp-product-cateogry-block {
+  height: 100%;
+}
+
+.wp-block-group.alignfull.wp-thumbnail-product {
+  margin: 30px !important;
+  max-width: 100% !important;
+  background-color: transparent;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.wp-site-blocks .wp-block-section.wp-product-showcase {
+  margin: 30px 0;
+  background-color: transparent;
+}
+
+.wc-block-featured-category__description p {
+  margin: 0;
+  line-height: 1.75;
+}
+
+/* --- three column product showcase **/
+.wc-block-grid__product .wc-block-grid__product-title,
+.wc-block-grid__product-price.price,
+.wp-product-showcase .wc-block-featured-product .wc-block-featured-product__price,
+.wp-product-showcase .wc-block-featured-product .wc-block-featured-product__title {
+  color: var(--wp--preset--color--foreground);
+  font-size: var(--wp--preset--font-size--normal);
+  line-height: var(--wp--custom--typography--line-height--paragraph);
+  padding-left: 0;
+  padding-right: 0;
+
+}
+
+.wp-product-showcase .wc-block-featured-product .wc-block-featured-product__price {
+  font-weight: var(--wp--custom--typography--font-weight--bold);
+}
+
+.wc-block-grid__product del,
+.wp-product-showcase .wc-block-featured-product .wc-block-featured-product__price del {
+  font-weight: var(--wp--custom--typography--font-weight--regular);
+  opacity: 0.5;
+}
+
+.wp-product-showcase .wc-block-featured-product .wc-block-featured-product__description p {
+  font-size: var(--wp--preset--font-size--upper-heading);
+}
+
+.wp-product-cateogry-block .wc-block-featured-category .wc-block-featured-category__description,
+.wp-product-showcase .wc-block-featured-product .wc-block-featured-product__description {
+  color: var(--wp--preset--color--body-text);
+}
+
+.wp-product-cateogry-block .wc-block-featured-category .wc-block-featured-category__background-image,
+.wp-product-showcase .wc-block-featured-product .wc-block-featured-product__background-image {
+  position: relative;
+  object-fit: contain !important;
+  margin: 0 0 21px;
+  transition: all 0.4s;
+  background-color: var(--wp--preset--color--primary);
+}
+
+.wp-block-latest-products .wc-block-grid__product:hover .wc-block-grid__product-image img,
+.wp-product-cateogry-block .wc-block-featured-category:hover img.wc-block-featured-category__background-image,
+.wp-thumbnail-product .wc-block-product-category:hover img,
+.wc-block-featured-product:hover img.wc-block-featured-product__background-image {
+  -webkit-transform: translateY(-4px);
+  transform: translateY(-4px);
+
+}
+
+.wp-product-showcase .wc-block-featured-product.has-background-dim .background-dim__overlay:before {
+  opacity: 0;
+}
+
+
+
+.wp-thumbnail-product .wp-block-columns .wp-product-category-thumbnail {
+  overflow: hidden;
+}
+
+.wp-thumbnail-product .wp-block-columns .wp-product-category-thumbnail img {
+  transform: scale(1.1);
+  transition: all 0.4s;
+  -webkit-box-shadow: 21px 22px 0px 7px rgba(235, 235, 235, 1);
+  -moz-box-shadow: 21px 22px 0px 7px rgba(235, 235, 235, 1);
+  box-shadow: 21px 22px 0px 7px rgba(235, 235, 235, 1);
+}
+
+.wp-thumbnail-product .wp-block-columns:hover .wp-product-category-thumbnail img {
+  transform: scale(1);
+}
+
+.wp-block-group-heading+.wp-product-cateogry-block {
+  margin-block-start: 0;
+}
+
+.wc-block-featured-product {
+  align-content: flex-start;
+  min-height: auto !important;
+}
+
+.wp-on-sale-products.wp-block-section .wp-block-group-heading,
+.wp-product-showcase.wp-block-section .wp-block-group-heading {
+  margin-bottom: 35px;
+}
+
+.woocommerce .related.products>h2,
+.wp-on-sale-products .wp-block-group-heading h2,
+.wp-product-showcase.wp-block-section .wp-block-group-heading h2 {
+  font-size: var(--wp--custom--typography--font-size--heading-five);
+}
+
+.wc-block-featured-product__link .wp-block-buttons>.wp-block-button {
+  line-height: 0;
+}
+
+.wp-product-cateogry-block .wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column {
+  flex-basis: 45% !important;
+}

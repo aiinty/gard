@@ -1,0 +1,40 @@
+/*
+Theme Name: Threadwears
+Theme URI: https://catchthemes.com/themes/threadwears
+Author: Catch Themes
+Author URI: https://catchthemes.com
+Description: Threadwears is a light and elegant free eCommerce WordPress block theme for full site editing. This block-based theme is ideal for all types of online businesses and stores that display their products and services online. The theme is perfect for all levels of business owners from startups to professionals. It comes with highly customizable features that let you customize your site easily. The theme is fully responsive that adapts to all screen sizes. It perfectly works with the eCommerce plugin “WooCommerce”. With the drag-and-drop interface, you can easily build the content using block patterns. There are 16+ block patterns, 17 Templates, and 9 Template Parts available in this theme. The theme helps you to build the eCommerce site beautifully. Some of the block patterns are 404 Header, Archive Header, Archive Post Header, Blog Header, Featured Category, Featured Products, Footer Dark Default, Footer Dark Three Columns, Header Media, Header With Cart, Latest Post, Post Header, Shop Header, Sidebar Products, and many more. All the block patterns, Templates, and Templates Parts are fully responsive, fast loading, and highly customizable.
+Requires at least: 5.9
+Tested up to: 6.4
+Requires PHP: 5.6
+Version: 1.1.3
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: threadwears
+Tags: e-commerce, blog, portfolio, one-column, two-columns, left-sidebar, right-sidebar, block-patterns, block-styles, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-site-editing, threaded-comments, wide-blocks, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Threadwears is based on Catch FSE WordPress Theme, 2012-2023 Catchthemes.com
+Catch FSE is distributed under the terms of the GNU GPL.
+*/
+
+
+/*--------------------------------------------------------------
+# Blocks
+--------------------------------------------------------------*/
+@import "sass/blocks/all-blocks";
+
+/*--------------------------------------------------------------
+# Components
+--------------------------------------------------------------*/
+@import "sass/patterns/all-patterns";
+
+/* --- Block Media Quries
+-------------------------------------------------------- */
+@import 'sass/media-query';
+
+/* --- Block Color
+-------------------------------------------------------- */
+@import 'sass/color';

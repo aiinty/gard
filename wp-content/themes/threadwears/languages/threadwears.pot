@@ -1,0 +1,289 @@
+# <!=Copyright (C) 2023 Catch Themes
+# This file is distributed under the GNU General Public License v2 or later.=!>
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Threadwears\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2024-04-01 22:06+0545\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/about.php:19
+msgid "Threadwears Pro"
+msgstr ""
+
+#: inc/about.php:20
+msgid ""
+"Get your hands on the WordPress Full Site Editing features. Start building "
+"your website with advanced block patterns and custom blocks! Get additional "
+"43+ Pre-Designed Block Patterns, 14 FSE Templates, and 14 Template Parts  "
+"that are highly customizable and fully responsive."
+msgstr ""
+
+#: inc/about.php:22
+msgid "Get Threadwears Pro"
+msgstr ""
+
+#: inc/about.php:24 inc/about.php:96
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:49
+msgid "ThreadWears"
+msgstr ""
+
+#: inc/about.php:68
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:76
+msgid "Getting Started with ThreadWears!"
+msgstr ""
+
+#: inc/about.php:77
+msgid ""
+"Awesome! ThreadWears has been installed and activated successfully. Now, "
+"you can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in "
+"this astounding theme."
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme instructions"
+msgstr ""
+
+#: inc/about.php:84
+msgid "More Features with ThreadWears Pro Theme"
+msgstr ""
+
+#: inc/about.php:85
+msgid ""
+"To get more beautiful block patterns and templates, we recommend you "
+"upgrade to ThreadWears Pro. With the pro theme installed, get more options, "
+"blocks, block patterns, templates and template parts."
+msgstr ""
+
+#: inc/about.php:86
+msgid "Buy ThreadWears Pro"
+msgstr ""
+
+#: inc/about.php:95
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:97
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:98
+msgid "FSE FAQs"
+msgstr ""
+
+#: inc/about.php:99
+msgid "Change log"
+msgstr ""
+
+#: inc/about.php:100
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:107
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:108
+msgid ""
+"Loved ThreadWears? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:109
+msgid "Review"
+msgstr ""
+
+#: inc/block-patterns.php:18
+msgid "Threadwears"
+msgstr ""
+
+#: inc/block-patterns.php:19
+msgid "Pages"
+msgstr ""
+
+#: inc/block-styles.php:26
+msgid "No Padding"
+msgstr ""
+
+#: inc/block-styles.php:35
+msgid "Gap Zero"
+msgstr ""
+
+#: inc/block-styles.php:44 inc/block-styles.php:62 inc/block-styles.php:71
+#: inc/block-styles.php:80 inc/block-styles.php:89 inc/block-styles.php:99
+#: inc/block-styles.php:109 inc/block-styles.php:118
+msgid "Theme Style"
+msgstr ""
+
+#: inc/block-styles.php:53
+msgid "Plain"
+msgstr ""
+
+#: inc/icon-function.php:38
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-function.php:43
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: patterns/404-header.php:24
+msgid "404 Nothing Found"
+msgstr ""
+
+#: patterns/404-header.php:29
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: patterns/blog-header.php:24
+msgid "Recent From Blog"
+msgstr ""
+
+#: patterns/featured-collections.php:15
+msgid "Featured Collection"
+msgstr ""
+
+#: patterns/featured-collections.php:20
+msgid "We collaborate with smart and creative people"
+msgstr ""
+
+#: patterns/featured-products.php:20
+msgid "Feautred Products"
+msgstr ""
+
+#: patterns/featured-products.php:34
+msgid "See All"
+msgstr ""
+
+#: patterns/footer-dark-default.php:20
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL, 3: Privacy Policy Link"
+msgid "Copyright %1$s %2$s %3$s"
+msgstr ""
+
+#: patterns/footer-dark-default.php:22
+msgid "Y"
+msgstr ""
+
+#: patterns/footer-dark-three-columns.php:21
+msgid "about"
+msgstr ""
+
+#: patterns/footer-dark-three-columns.php:24
+msgid ""
+"Threadwears is a premium eCommerce WordPress block theme for full site "
+"editing. This theme is ideal for all online stores and businesses to "
+"display their products online."
+msgstr ""
+
+#: patterns/footer-dark-three-columns.php:35
+msgid "Useful Links"
+msgstr ""
+
+#: patterns/footer-dark-three-columns.php:47
+msgid "My Account"
+msgstr ""
+
+#: patterns/header-media.php:21
+msgid "Elegant Styles"
+msgstr ""
+
+#: patterns/header-media.php:26
+msgid ""
+"We collaborate with smart and creative people to build awesome WordPress "
+"Full Site Editing Themes."
+msgstr ""
+
+#: patterns/header-media.php:34
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/hidden-404.php:10
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/latest-posts.php:15
+msgid "Latest From The Editorial"
+msgstr ""
+
+#: patterns/sidebar-products.php:16 patterns/sidebar.php:32
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar-products.php:26
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/sidebar-products.php:42
+msgid "Filter by size"
+msgstr ""
+
+#: patterns/sidebar-products.php:58
+msgid "Filter by Color"
+msgstr ""
+
+#: patterns/sidebar.php:19
+msgid "Author"
+msgstr ""
+
+#: patterns/sidebar.php:25
+msgid ""
+"Style is s a form of self-expression and autonomy at a particular period "
+"and place and in a specific context, of clothing, footwear, lifestyle, "
+"accessories, makeup, hairstyle, and body posture."
+msgstr ""
+
+#: patterns/sidebar.php:40
+msgid "Recent Post"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Tags"
+msgstr ""
+
+#: patterns/woocommerce-features.php:31
+msgid "Free Shipping"
+msgstr ""
+
+#: patterns/woocommerce-features.php:34
+msgid "Boost Sales and Improve Customer Satisfaction"
+msgstr ""
+
+#: patterns/woocommerce-features.php:58
+msgid "Refund Policy"
+msgstr ""
+
+#: patterns/woocommerce-features.php:61
+msgid "Hassle-Free Refund Policy"
+msgstr ""
+
+#: patterns/woocommerce-features.php:85
+msgid "Payment Process"
+msgstr ""
+
+#: patterns/woocommerce-features.php:88
+msgid "Easy and Safe Payment Process for Your Convenience"
+msgstr ""
