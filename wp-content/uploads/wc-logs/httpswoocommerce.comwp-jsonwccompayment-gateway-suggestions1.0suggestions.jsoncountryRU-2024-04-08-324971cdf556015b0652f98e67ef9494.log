@@ -1,0 +1,7546 @@
+2024-04-08T07:00:36+00:00 ERROR Error getting data feed
+2024-04-08T07:00:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:00:50+00:00 ERROR Error getting data feed
+2024-04-08T07:00:50+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:01:04+00:00 ERROR Error getting data feed
+2024-04-08T07:01:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:01:14+00:00 ERROR Error getting data feed
+2024-04-08T07:01:14+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:01:31+00:00 ERROR Error getting data feed
+2024-04-08T07:01:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:04:32+00:00 ERROR Error getting data feed
+2024-04-08T07:04:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:04:44+00:00 ERROR Error getting data feed
+2024-04-08T07:04:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:04:44+00:00 ERROR Error getting data feed
+2024-04-08T07:04:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:04:57+00:00 ERROR Error getting data feed
+2024-04-08T07:04:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:05:05+00:00 ERROR Error getting data feed
+2024-04-08T07:05:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:05:05+00:00 ERROR Error getting data feed
+2024-04-08T07:05:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:05:37+00:00 ERROR Error getting data feed
+2024-04-08T07:05:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:00+00:00 ERROR Error getting data feed
+2024-04-08T07:06:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:00+00:00 ERROR Error getting data feed
+2024-04-08T07:06:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:04+00:00 ERROR Error getting data feed
+2024-04-08T07:06:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:04+00:00 ERROR Error getting data feed
+2024-04-08T07:06:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:05+00:00 ERROR Error getting data feed
+2024-04-08T07:06:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:06+00:00 ERROR Error getting data feed
+2024-04-08T07:06:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:31+00:00 ERROR Error getting data feed
+2024-04-08T07:06:33+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:33+00:00 ERROR Error getting data feed
+2024-04-08T07:06:33+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:35+00:00 ERROR Error getting data feed
+2024-04-08T07:06:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:36+00:00 ERROR Error getting data feed
+2024-04-08T07:06:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:37+00:00 ERROR Error getting data feed
+2024-04-08T07:06:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:06:56+00:00 ERROR Error getting data feed
+2024-04-08T07:06:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5001 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:07:07+00:00 ERROR Error getting data feed
+2024-04-08T07:07:07+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:07:19+00:00 ERROR Error getting data feed
+2024-04-08T07:07:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 5: Could not resolve proxy: srv-proxy-rt.oat.local
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:07:19+00:00 ERROR Error getting data feed
+2024-04-08T07:07:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 5: Could not resolve proxy: srv-proxy-rt.oat.local
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:07:49+00:00 ERROR Error getting data feed
+2024-04-08T07:07:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:07:49+00:00 ERROR Error getting data feed
+2024-04-08T07:07:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:12+00:00 ERROR Error getting data feed
+2024-04-08T07:10:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:22+00:00 ERROR Error getting data feed
+2024-04-08T07:10:22+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:23+00:00 ERROR Error getting data feed
+2024-04-08T07:10:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:23+00:00 ERROR Error getting data feed
+2024-04-08T07:10:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:30+00:00 ERROR Error getting data feed
+2024-04-08T07:10:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:30+00:00 ERROR Error getting data feed
+2024-04-08T07:10:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:54+00:00 ERROR Error getting data feed
+2024-04-08T07:10:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:10:54+00:00 ERROR Error getting data feed
+2024-04-08T07:10:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:11:01+00:00 ERROR Error getting data feed
+2024-04-08T07:11:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:11:02+00:00 ERROR Error getting data feed
+2024-04-08T07:11:02+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:32:22+00:00 ERROR Error getting data feed
+2024-04-08T07:32:22+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:32:38+00:00 ERROR Error getting data feed
+2024-04-08T07:32:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:32:38+00:00 ERROR Error getting data feed
+2024-04-08T07:32:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:38:30+00:00 ERROR Error getting data feed
+2024-04-08T07:38:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:38:37+00:00 ERROR Error getting data feed
+2024-04-08T07:38:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:38:37+00:00 ERROR Error getting data feed
+2024-04-08T07:38:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:38:40+00:00 ERROR Error getting data feed
+2024-04-08T07:38:40+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:38:46+00:00 ERROR Error getting data feed
+2024-04-08T07:38:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:38:46+00:00 ERROR Error getting data feed
+2024-04-08T07:38:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:39:57+00:00 ERROR Error getting data feed
+2024-04-08T07:39:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:40:05+00:00 ERROR Error getting data feed
+2024-04-08T07:40:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:40:05+00:00 ERROR Error getting data feed
+2024-04-08T07:40:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:40:09+00:00 ERROR Error getting data feed
+2024-04-08T07:40:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:40:15+00:00 ERROR Error getting data feed
+2024-04-08T07:40:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:40:15+00:00 ERROR Error getting data feed
+2024-04-08T07:40:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:42:44+00:00 ERROR Error getting data feed
+2024-04-08T07:42:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:42:46+00:00 ERROR Error getting data feed
+2024-04-08T07:42:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:43:21+00:00 ERROR Error getting data feed
+2024-04-08T07:43:21+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:43:21+00:00 ERROR Error getting data feed
+2024-04-08T07:43:21+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:44:55+00:00 ERROR Error getting data feed
+2024-04-08T07:44:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:44:56+00:00 ERROR Error getting data feed
+2024-04-08T07:44:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:44:57+00:00 ERROR Error getting data feed
+2024-04-08T07:44:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:45:06+00:00 ERROR Error getting data feed
+2024-04-08T07:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:45:06+00:00 ERROR Error getting data feed
+2024-04-08T07:45:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:45:09+00:00 ERROR Error getting data feed
+2024-04-08T07:45:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:45:19+00:00 ERROR Error getting data feed
+2024-04-08T07:45:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:45:19+00:00 ERROR Error getting data feed
+2024-04-08T07:45:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:46:21+00:00 ERROR Error getting data feed
+2024-04-08T07:46:21+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:46:23+00:00 ERROR Error getting data feed
+2024-04-08T07:46:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:46:34+00:00 ERROR Error getting data feed
+2024-04-08T07:46:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:46:34+00:00 ERROR Error getting data feed
+2024-04-08T07:46:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:46:49+00:00 ERROR Error getting data feed
+2024-04-08T07:46:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:46:57+00:00 ERROR Error getting data feed
+2024-04-08T07:46:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:07+00:00 ERROR Error getting data feed
+2024-04-08T07:47:07+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:12+00:00 ERROR Error getting data feed
+2024-04-08T07:47:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:23+00:00 ERROR Error getting data feed
+2024-04-08T07:47:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:23+00:00 ERROR Error getting data feed
+2024-04-08T07:47:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:27+00:00 ERROR Error getting data feed
+2024-04-08T07:47:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:35+00:00 ERROR Error getting data feed
+2024-04-08T07:47:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:44+00:00 ERROR Error getting data feed
+2024-04-08T07:47:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:51+00:00 ERROR Error getting data feed
+2024-04-08T07:47:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:47:59+00:00 ERROR Error getting data feed
+2024-04-08T07:47:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:48:05+00:00 ERROR Error getting data feed
+2024-04-08T07:48:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:48:13+00:00 ERROR Error getting data feed
+2024-04-08T07:48:13+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:48:27+00:00 ERROR Error getting data feed
+2024-04-08T07:48:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:50:04+00:00 ERROR Error getting data feed
+2024-04-08T07:50:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:50:30+00:00 ERROR Error getting data feed
+2024-04-08T07:50:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:50:59+00:00 ERROR Error getting data feed
+2024-04-08T07:50:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:50:59+00:00 ERROR Error getting data feed
+2024-04-08T07:50:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:11+00:00 ERROR Error getting data feed
+2024-04-08T07:51:11+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:13+00:00 ERROR Error getting data feed
+2024-04-08T07:51:13+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:26+00:00 ERROR Error getting data feed
+2024-04-08T07:51:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:27+00:00 ERROR Error getting data feed
+2024-04-08T07:51:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:29+00:00 ERROR Error getting data feed
+2024-04-08T07:51:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:39+00:00 ERROR Error getting data feed
+2024-04-08T07:51:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:40+00:00 ERROR Error getting data feed
+2024-04-08T07:51:40+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:42+00:00 ERROR Error getting data feed
+2024-04-08T07:51:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:50+00:00 ERROR Error getting data feed
+2024-04-08T07:51:50+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:51:50+00:00 ERROR Error getting data feed
+2024-04-08T07:51:50+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:54:51+00:00 ERROR Error getting data feed
+2024-04-08T07:54:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:54:58+00:00 ERROR Error getting data feed
+2024-04-08T07:54:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:54:58+00:00 ERROR Error getting data feed
+2024-04-08T07:54:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:55:10+00:00 ERROR Error getting data feed
+2024-04-08T07:55:10+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:55:18+00:00 ERROR Error getting data feed
+2024-04-08T07:55:18+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:55:19+00:00 ERROR Error getting data feed
+2024-04-08T07:55:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:55:41+00:00 ERROR Error getting data feed
+2024-04-08T07:55:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:55:52+00:00 ERROR Error getting data feed
+2024-04-08T07:55:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:56:10+00:00 ERROR Error getting data feed
+2024-04-08T07:56:10+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:56:24+00:00 ERROR Error getting data feed
+2024-04-08T07:56:24+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:56:47+00:00 ERROR Error getting data feed
+2024-04-08T07:56:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:57:00+00:00 ERROR Error getting data feed
+2024-04-08T07:57:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:57:53+00:00 ERROR Error getting data feed
+2024-04-08T07:57:53+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:57:54+00:00 ERROR Error getting data feed
+2024-04-08T07:57:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:58:05+00:00 ERROR Error getting data feed
+2024-04-08T07:58:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:58:05+00:00 ERROR Error getting data feed
+2024-04-08T07:58:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:58:06+00:00 ERROR Error getting data feed
+2024-04-08T07:58:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:58:08+00:00 ERROR Error getting data feed
+2024-04-08T07:58:08+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:58:15+00:00 ERROR Error getting data feed
+2024-04-08T07:58:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T07:58:15+00:00 ERROR Error getting data feed
+2024-04-08T07:58:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:04:59+00:00 ERROR Error getting data feed
+2024-04-08T08:04:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:05:02+00:00 ERROR Error getting data feed
+2024-04-08T08:05:02+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:05:03+00:00 ERROR Error getting data feed
+2024-04-08T08:05:03+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:05:11+00:00 ERROR Error getting data feed
+2024-04-08T08:05:11+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:05:11+00:00 ERROR Error getting data feed
+2024-04-08T08:05:11+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:09:44+00:00 ERROR Error getting data feed
+2024-04-08T08:09:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:09:52+00:00 ERROR Error getting data feed
+2024-04-08T08:09:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:09:54+00:00 ERROR Error getting data feed
+2024-04-08T08:09:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:09:56+00:00 ERROR Error getting data feed
+2024-04-08T08:09:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:09:58+00:00 ERROR Error getting data feed
+2024-04-08T08:09:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:09:58+00:00 ERROR Error getting data feed
+2024-04-08T08:09:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:10:06+00:00 ERROR Error getting data feed
+2024-04-08T08:10:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:10:06+00:00 ERROR Error getting data feed
+2024-04-08T08:10:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:10:21+00:00 ERROR Error getting data feed
+2024-04-08T08:10:21+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:10:27+00:00 ERROR Error getting data feed
+2024-04-08T08:10:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:10:27+00:00 ERROR Error getting data feed
+2024-04-08T08:10:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:12:28+00:00 ERROR Error getting data feed
+2024-04-08T08:12:28+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:12:35+00:00 ERROR Error getting data feed
+2024-04-08T08:12:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:12:36+00:00 ERROR Error getting data feed
+2024-04-08T08:12:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:16:09+00:00 ERROR Error getting data feed
+2024-04-08T08:16:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:16:11+00:00 ERROR Error getting data feed
+2024-04-08T08:16:11+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:16:19+00:00 ERROR Error getting data feed
+2024-04-08T08:16:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:16:19+00:00 ERROR Error getting data feed
+2024-04-08T08:16:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:16:19+00:00 ERROR Error getting data feed
+2024-04-08T08:16:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:16:25+00:00 ERROR Error getting data feed
+2024-04-08T08:16:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:16:25+00:00 ERROR Error getting data feed
+2024-04-08T08:16:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:17:52+00:00 ERROR Error getting data feed
+2024-04-08T08:17:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:18:28+00:00 ERROR Error getting data feed
+2024-04-08T08:18:28+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:18:46+00:00 ERROR Error getting data feed
+2024-04-08T08:18:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:18:56+00:00 ERROR Error getting data feed
+2024-04-08T08:18:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:18:56+00:00 ERROR Error getting data feed
+2024-04-08T08:18:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:18:57+00:00 ERROR Error getting data feed
+2024-04-08T08:18:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:19:05+00:00 ERROR Error getting data feed
+2024-04-08T08:19:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:19:06+00:00 ERROR Error getting data feed
+2024-04-08T08:19:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:20:03+00:00 ERROR Error getting data feed
+2024-04-08T08:20:03+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:20:08+00:00 ERROR Error getting data feed
+2024-04-08T08:20:08+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:22:00+00:00 ERROR Error getting data feed
+2024-04-08T08:22:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:24:44+00:00 ERROR Error getting data feed
+2024-04-08T08:24:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:24:53+00:00 ERROR Error getting data feed
+2024-04-08T08:24:53+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:24:54+00:00 ERROR Error getting data feed
+2024-04-08T08:24:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:24:54+00:00 ERROR Error getting data feed
+2024-04-08T08:24:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:24:57+00:00 ERROR Error getting data feed
+2024-04-08T08:24:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:25:08+00:00 ERROR Error getting data feed
+2024-04-08T08:25:08+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:25:08+00:00 ERROR Error getting data feed
+2024-04-08T08:25:08+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:26:57+00:00 ERROR Error getting data feed
+2024-04-08T08:26:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:27:04+00:00 ERROR Error getting data feed
+2024-04-08T08:27:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:27:04+00:00 ERROR Error getting data feed
+2024-04-08T08:27:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:29:36+00:00 ERROR Error getting data feed
+2024-04-08T08:29:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:29:45+00:00 ERROR Error getting data feed
+2024-04-08T08:29:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:29:46+00:00 ERROR Error getting data feed
+2024-04-08T08:29:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:29:56+00:00 ERROR Error getting data feed
+2024-04-08T08:29:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:29:58+00:00 ERROR Error getting data feed
+2024-04-08T08:29:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:30:02+00:00 ERROR Error getting data feed
+2024-04-08T08:30:02+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:30:03+00:00 ERROR Error getting data feed
+2024-04-08T08:30:03+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:30:12+00:00 ERROR Error getting data feed
+2024-04-08T08:30:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:30:12+00:00 ERROR Error getting data feed
+2024-04-08T08:30:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:33:05+00:00 ERROR Error getting data feed
+2024-04-08T08:33:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:33:58+00:00 ERROR Error getting data feed
+2024-04-08T08:33:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:34:10+00:00 ERROR Error getting data feed
+2024-04-08T08:34:10+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:34:19+00:00 ERROR Error getting data feed
+2024-04-08T08:34:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:34:21+00:00 ERROR Error getting data feed
+2024-04-08T08:34:21+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:34:27+00:00 ERROR Error getting data feed
+2024-04-08T08:34:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:34:32+00:00 ERROR Error getting data feed
+2024-04-08T08:34:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:34:38+00:00 ERROR Error getting data feed
+2024-04-08T08:34:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:36:00+00:00 ERROR Error getting data feed
+2024-04-08T08:36:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:36:38+00:00 ERROR Error getting data feed
+2024-04-08T08:36:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:37:28+00:00 ERROR Error getting data feed
+2024-04-08T08:37:28+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:37:42+00:00 ERROR Error getting data feed
+2024-04-08T08:37:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:41:55+00:00 ERROR Error getting data feed
+2024-04-08T08:41:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:42:05+00:00 ERROR Error getting data feed
+2024-04-08T08:42:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:42:26+00:00 ERROR Error getting data feed
+2024-04-08T08:42:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:42:49+00:00 ERROR Error getting data feed
+2024-04-08T08:42:49+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:43:25+00:00 ERROR Error getting data feed
+2024-04-08T08:43:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:43:56+00:00 ERROR Error getting data feed
+2024-04-08T08:43:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:44:44+00:00 ERROR Error getting data feed
+2024-04-08T08:44:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:45:11+00:00 ERROR Error getting data feed
+2024-04-08T08:45:11+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:47:51+00:00 ERROR Error getting data feed
+2024-04-08T08:47:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:48:06+00:00 ERROR Error getting data feed
+2024-04-08T08:48:06+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:48:34+00:00 ERROR Error getting data feed
+2024-04-08T08:48:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:48:45+00:00 ERROR Error getting data feed
+2024-04-08T08:48:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:51:25+00:00 ERROR Error getting data feed
+2024-04-08T08:51:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:51:29+00:00 ERROR Error getting data feed
+2024-04-08T08:51:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:00+00:00 ERROR Error getting data feed
+2024-04-08T08:53:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:03+00:00 ERROR Error getting data feed
+2024-04-08T08:53:03+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:04+00:00 ERROR Error getting data feed
+2024-04-08T08:53:04+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:07+00:00 ERROR Error getting data feed
+2024-04-08T08:53:07+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:24+00:00 ERROR Error getting data feed
+2024-04-08T08:53:24+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:24+00:00 ERROR Error getting data feed
+2024-04-08T08:53:24+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:31+00:00 ERROR Error getting data feed
+2024-04-08T08:53:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:34+00:00 ERROR Error getting data feed
+2024-04-08T08:53:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:43+00:00 ERROR Error getting data feed
+2024-04-08T08:53:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:53:46+00:00 ERROR Error getting data feed
+2024-04-08T08:53:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:54:01+00:00 ERROR Error getting data feed
+2024-04-08T08:54:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:54:08+00:00 ERROR Error getting data feed
+2024-04-08T08:54:08+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:54:08+00:00 ERROR Error getting data feed
+2024-04-08T08:54:08+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:54:47+00:00 ERROR Error getting data feed
+2024-04-08T08:54:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:54:55+00:00 ERROR Error getting data feed
+2024-04-08T08:54:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:54:55+00:00 ERROR Error getting data feed
+2024-04-08T08:54:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:54:59+00:00 ERROR Error getting data feed
+2024-04-08T08:54:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:55:20+00:00 ERROR Error getting data feed
+2024-04-08T08:55:20+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T08:57:55+00:00 ERROR Error getting data feed
+2024-04-08T08:57:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:07:48+00:00 ERROR Error getting data feed
+2024-04-08T09:07:48+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:07:58+00:00 ERROR Error getting data feed
+2024-04-08T09:07:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:08:11+00:00 ERROR Error getting data feed
+2024-04-08T09:08:11+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:08:36+00:00 ERROR Error getting data feed
+2024-04-08T09:08:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:08:41+00:00 ERROR Error getting data feed
+2024-04-08T09:08:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:09:01+00:00 ERROR Error getting data feed
+2024-04-08T09:09:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:09:08+00:00 ERROR Error getting data feed
+2024-04-08T09:09:08+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:25:07+00:00 ERROR Error getting data feed
+2024-04-08T09:25:07+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:34:12+00:00 ERROR Error getting data feed
+2024-04-08T09:34:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:35:09+00:00 ERROR Error getting data feed
+2024-04-08T09:35:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:35:53+00:00 ERROR Error getting data feed
+2024-04-08T09:35:53+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:39:25+00:00 ERROR Error getting data feed
+2024-04-08T09:39:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:40:10+00:00 ERROR Error getting data feed
+2024-04-08T09:40:10+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:41:39+00:00 ERROR Error getting data feed
+2024-04-08T09:41:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:41:51+00:00 ERROR Error getting data feed
+2024-04-08T09:41:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:43:16+00:00 ERROR Error getting data feed
+2024-04-08T09:43:16+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:23+00:00 ERROR Error getting data feed
+2024-04-08T09:44:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:24+00:00 ERROR Error getting data feed
+2024-04-08T09:44:24+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:29+00:00 ERROR Error getting data feed
+2024-04-08T09:44:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:38+00:00 ERROR Error getting data feed
+2024-04-08T09:44:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:38+00:00 ERROR Error getting data feed
+2024-04-08T09:44:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:44+00:00 ERROR Error getting data feed
+2024-04-08T09:44:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:52+00:00 ERROR Error getting data feed
+2024-04-08T09:44:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:52+00:00 ERROR Error getting data feed
+2024-04-08T09:44:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:44:56+00:00 ERROR Error getting data feed
+2024-04-08T09:44:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:02+00:00 ERROR Error getting data feed
+2024-04-08T09:45:02+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:11+00:00 ERROR Error getting data feed
+2024-04-08T09:45:11+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:12+00:00 ERROR Error getting data feed
+2024-04-08T09:45:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:12+00:00 ERROR Error getting data feed
+2024-04-08T09:45:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:14+00:00 ERROR Error getting data feed
+2024-04-08T09:45:14+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:22+00:00 ERROR Error getting data feed
+2024-04-08T09:45:22+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:22+00:00 ERROR Error getting data feed
+2024-04-08T09:45:22+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:29+00:00 ERROR Error getting data feed
+2024-04-08T09:45:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:37+00:00 ERROR Error getting data feed
+2024-04-08T09:45:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:37+00:00 ERROR Error getting data feed
+2024-04-08T09:45:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:43+00:00 ERROR Error getting data feed
+2024-04-08T09:45:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:51+00:00 ERROR Error getting data feed
+2024-04-08T09:45:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:51+00:00 ERROR Error getting data feed
+2024-04-08T09:45:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:45:58+00:00 ERROR Error getting data feed
+2024-04-08T09:45:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:46:09+00:00 ERROR Error getting data feed
+2024-04-08T09:46:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:46:09+00:00 ERROR Error getting data feed
+2024-04-08T09:46:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:56:03+00:00 ERROR Error getting data feed
+2024-04-08T09:56:03+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:56:27+00:00 ERROR Error getting data feed
+2024-04-08T09:56:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:58:36+00:00 ERROR Error getting data feed
+2024-04-08T09:58:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:58:46+00:00 ERROR Error getting data feed
+2024-04-08T09:58:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:58:46+00:00 ERROR Error getting data feed
+2024-04-08T09:58:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:58:54+00:00 ERROR Error getting data feed
+2024-04-08T09:58:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:59:23+00:00 ERROR Error getting data feed
+2024-04-08T09:59:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:59:34+00:00 ERROR Error getting data feed
+2024-04-08T09:59:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T09:59:34+00:00 ERROR Error getting data feed
+2024-04-08T09:59:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:00:37+00:00 ERROR Error getting data feed
+2024-04-08T10:00:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:01:13+00:00 ERROR Error getting data feed
+2024-04-08T10:01:13+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:04:03+00:00 ERROR Error getting data feed
+2024-04-08T10:04:03+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:04:21+00:00 ERROR Error getting data feed
+2024-04-08T10:04:21+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:04:29+00:00 ERROR Error getting data feed
+2024-04-08T10:04:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:04:38+00:00 ERROR Error getting data feed
+2024-04-08T10:04:38+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:06:28+00:00 ERROR Error getting data feed
+2024-04-08T10:06:28+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:06:29+00:00 ERROR Error getting data feed
+2024-04-08T10:06:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:06:42+00:00 ERROR Error getting data feed
+2024-04-08T10:06:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:06:42+00:00 ERROR Error getting data feed
+2024-04-08T10:06:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:09:39+00:00 ERROR Error getting data feed
+2024-04-08T10:09:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:10:35+00:00 ERROR Error getting data feed
+2024-04-08T10:10:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:10:45+00:00 ERROR Error getting data feed
+2024-04-08T10:10:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:10:47+00:00 ERROR Error getting data feed
+2024-04-08T10:10:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:10:47+00:00 ERROR Error getting data feed
+2024-04-08T10:10:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:10:48+00:00 ERROR Error getting data feed
+2024-04-08T10:10:48+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:11:00+00:00 ERROR Error getting data feed
+2024-04-08T10:11:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:11:00+00:00 ERROR Error getting data feed
+2024-04-08T10:11:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:11:40+00:00 ERROR Error getting data feed
+2024-04-08T10:11:40+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:11:47+00:00 ERROR Error getting data feed
+2024-04-08T10:11:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:12:01+00:00 ERROR Error getting data feed
+2024-04-08T10:12:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:12:01+00:00 ERROR Error getting data feed
+2024-04-08T10:12:01+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:14:26+00:00 ERROR Error getting data feed
+2024-04-08T10:14:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:14:31+00:00 ERROR Error getting data feed
+2024-04-08T10:14:31+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:14:43+00:00 ERROR Error getting data feed
+2024-04-08T10:14:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:14:43+00:00 ERROR Error getting data feed
+2024-04-08T10:14:43+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:17:54+00:00 ERROR Error getting data feed
+2024-04-08T10:17:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:20+00:00 ERROR Error getting data feed
+2024-04-08T10:19:20+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:30+00:00 ERROR Error getting data feed
+2024-04-08T10:19:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:30+00:00 ERROR Error getting data feed
+2024-04-08T10:19:30+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:34+00:00 ERROR Error getting data feed
+2024-04-08T10:19:34+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:48+00:00 ERROR Error getting data feed
+2024-04-08T10:19:48+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:48+00:00 ERROR Error getting data feed
+2024-04-08T10:19:48+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:51+00:00 ERROR Error getting data feed
+2024-04-08T10:19:51+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:52+00:00 ERROR Error getting data feed
+2024-04-08T10:19:52+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:19:56+00:00 ERROR Error getting data feed
+2024-04-08T10:19:56+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:20:00+00:00 ERROR Error getting data feed
+2024-04-08T10:20:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:20:00+00:00 ERROR Error getting data feed
+2024-04-08T10:20:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:20:09+00:00 ERROR Error getting data feed
+2024-04-08T10:20:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:20:09+00:00 ERROR Error getting data feed
+2024-04-08T10:20:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:21:17+00:00 ERROR Error getting data feed
+2024-04-08T10:21:17+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:21:25+00:00 ERROR Error getting data feed
+2024-04-08T10:21:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:21:26+00:00 ERROR Error getting data feed
+2024-04-08T10:21:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:21:36+00:00 ERROR Error getting data feed
+2024-04-08T10:21:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:21:46+00:00 ERROR Error getting data feed
+2024-04-08T10:21:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:21:47+00:00 ERROR Error getting data feed
+2024-04-08T10:21:47+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:21:48+00:00 ERROR Error getting data feed
+2024-04-08T10:21:48+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:22:00+00:00 ERROR Error getting data feed
+2024-04-08T10:22:00+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:22:03+00:00 ERROR Error getting data feed
+2024-04-08T10:22:03+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:22:45+00:00 ERROR Error getting data feed
+2024-04-08T10:22:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:22:55+00:00 ERROR Error getting data feed
+2024-04-08T10:22:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:23:29+00:00 ERROR Error getting data feed
+2024-04-08T10:23:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:24:09+00:00 ERROR Error getting data feed
+2024-04-08T10:24:09+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:24:10+00:00 ERROR Error getting data feed
+2024-04-08T10:24:10+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:24:10+00:00 ERROR Error getting data feed
+2024-04-08T10:24:10+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:24:19+00:00 ERROR Error getting data feed
+2024-04-08T10:24:19+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:24:20+00:00 ERROR Error getting data feed
+2024-04-08T10:24:20+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:26:29+00:00 ERROR Error getting data feed
+2024-04-08T10:26:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:30:57+00:00 ERROR Error getting data feed
+2024-04-08T10:30:57+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:32:36+00:00 ERROR Error getting data feed
+2024-04-08T10:32:36+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:33:29+00:00 ERROR Error getting data feed
+2024-04-08T10:33:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:33:39+00:00 ERROR Error getting data feed
+2024-04-08T10:33:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:33:39+00:00 ERROR Error getting data feed
+2024-04-08T10:33:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:34:16+00:00 ERROR Error getting data feed
+2024-04-08T10:34:16+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:34:25+00:00 ERROR Error getting data feed
+2024-04-08T10:34:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:34:25+00:00 ERROR Error getting data feed
+2024-04-08T10:34:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:38:23+00:00 ERROR Error getting data feed
+2024-04-08T10:38:23+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:39:59+00:00 ERROR Error getting data feed
+2024-04-08T10:39:59+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:40:12+00:00 ERROR Error getting data feed
+2024-04-08T10:40:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:40:12+00:00 ERROR Error getting data feed
+2024-04-08T10:40:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:42:17+00:00 ERROR Error getting data feed
+2024-04-08T10:42:17+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:42:58+00:00 ERROR Error getting data feed
+2024-04-08T10:42:58+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:43:16+00:00 ERROR Error getting data feed
+2024-04-08T10:43:16+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-04-08T10:43:17+00:00 ERROR Error getting data feed
+2024-04-08T10:43:17+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 60: SSL certificate problem: unable to get local issuer certificate
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
